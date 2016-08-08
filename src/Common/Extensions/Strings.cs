@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Feather.Initials.Common.Extensions
+namespace Initials.Common.Extensions
 {
     public static class Strings
     {

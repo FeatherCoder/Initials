@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Feather.Initials.Common
+namespace Initials.Common
 {
     public abstract class Substitute
     {

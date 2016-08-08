@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Feather.Initials.Common.Extensions
+namespace Initials.Common.Extensions
 {
     public static class Bytes
     {

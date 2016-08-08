@@ -5,7 +5,7 @@ using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Feather.Initials.Common
+namespace Initials.Common
 {
     public static class Cryptography
     {

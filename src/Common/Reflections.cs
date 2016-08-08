@@ -1,13 +1,11 @@
-﻿using Feather.Initials.Common.Extensions;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
+using Initials.Common.Extensions;
 
-namespace Feather.Initials.Common
+namespace Initials.Common
 {
     public static class Reflections
     {

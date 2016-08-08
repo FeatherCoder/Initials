@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Feather.Initials.Common
+namespace Initials.Common
 {
     public static class Random
     {

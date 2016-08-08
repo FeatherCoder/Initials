@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Feather.Initials.Common.Extensions
+namespace Initials.Common.Extensions
 {
     public static class Arrays
     {
